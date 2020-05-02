@@ -1,1 +1,1 @@
-# Introductory seminar on R programming (2019)
+# Introductory Seminar on R Programming (2019)
